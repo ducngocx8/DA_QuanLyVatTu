@@ -1,0 +1,108 @@
+1234
+Nguyen Thanh
+Chuong
+1
+2345
+Nguyen Duc
+Ngoc
+1
+1068
+Tran Van
+An
+1
+1032
+Nguyen Van
+Dan
+1
+1786
+Nguyen Thi
+An
+1
+1709
+Nguyen Duc
+An
+1
+1632
+Nguyen Quang
+An
+0
+1764
+Tran Van
+Hung
+1
+1944
+Nguyen Van
+An
+1
+1000
+Pham Thi
+Thanh
+0
+2000
+Nguyen Thi
+Hang
+0
+3000
+Nguyen Thi
+Lan
+0
+4000
+Tran Ngoc
+Anh
+0
+5000
+Vu Minh
+Duc
+1
+6000
+Vu Duc
+Phat
+1
+7000
+Phan Minh
+Tuan
+1
+8000
+Ho Thi
+Linh
+0
+9000
+Nguyen Van
+Khanh
+1
+1010
+Nguyen Khac
+Duong
+1
+2020
+Ho Minh
+Dat
+1
+3030
+Vu Duc
+Tai
+1
+4040
+Pham Thi
+Ngan
+0
+5050
+Cao Thi
+Thuy
+0
+6060
+Pham Thi
+Thao
+0
+7070
+Pham Van
+Zin
+1
+8080
+Nguyen Hoang
+Viet
+1
+9090
+Ho Thi
+Huong
+0

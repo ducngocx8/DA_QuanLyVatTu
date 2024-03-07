@@ -1,0 +1,84 @@
+VT1234
+Cat
+Bao
+60
+VT2345
+Xi Mang
+Bao
+30
+VT3456
+Thep
+Cai
+30
+VT1111
+Sat
+Chiec
+1000
+VT2222
+Ghe
+Chiec
+2000
+VT3333
+Ban
+Chiec
+100
+VT4444
+Tu Lanh
+Cai
+200
+VT5555
+Gach
+Vien
+900
+VT6666
+So
+Vien
+100
+VT7777
+Kinh
+Tam
+20
+VT8888
+Quat
+Chiec
+300
+VT9999
+Rem Cua
+Chiec
+200
+VT1000
+Day Dien
+Cuon
+300
+VT1001
+Ong Nuoc
+Cai
+200
+VT1002
+Son
+Thung
+40
+VT1003
+Cua So
+Chiec
+100
+VT1004
+Den
+Chiec
+900
+VT1005
+Bon Nuoc
+Chiec
+100
+VT1006
+Ngoi
+Cai
+4000
+VT1007
+Tu
+Chiec
+2000
+VT1008
+May Bom
+Chiec
+400
